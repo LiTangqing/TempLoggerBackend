@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/litangqing/Desktop/django-rest-framework-mongoengine-example-master/env"
+set -gx VIRTUAL_ENV "/Users/litangqing/Desktop/YonahDjangoBackEnd/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
